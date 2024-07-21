@@ -110,7 +110,7 @@ const Footer = () => {
           >
             <Text mt={2}>+91 828*74345*</Text>
             <Text>49 Greenpark New Delhi</Text>
-            <Text>codeflow@gmail.com</Text>
+            <Text>codefusion@gmail.com</Text>
           </Flex>
         </GridItem>
         <GridItem
@@ -144,7 +144,7 @@ const Footer = () => {
         // border={"1px solid white"}
         mt={2}
       >
-        <Text p={"1rem 0"} fontSize={{ base: ".8rem", md: "1rem" }}>© Copy right 2023 CodeFlow</Text>
+        <Text p={"1rem 0"} fontSize={{ base: ".8rem", md: "1rem" }}>© Copy right 2023 CodeFusion</Text>
       </Box>
     </Box>
   );

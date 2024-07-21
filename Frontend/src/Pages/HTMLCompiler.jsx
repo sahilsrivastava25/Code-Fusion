@@ -50,7 +50,7 @@ function HTMLCompiler() {
   return (
     <div>
       <p className="text-5xl py-5 m-auto text-center">
-        Welcome to CODEFLOW editor!
+        Welcome to CODEFUSION editor!
       </p>
       <Box
         className="flex w-1/1 items-center justify-center"
